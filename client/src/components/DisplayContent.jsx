@@ -12,5 +12,3 @@ const DisplayContent = ({ content }) => {
 };
 
 export default DisplayContent;
-//lll/jfjfjfuhfr//fkfkkf
-//tfkfkf//
