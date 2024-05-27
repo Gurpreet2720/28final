@@ -1,9 +1,9 @@
 import mysql2 from "mysql2";
 
 export const db=mysql2.createConnection({
-    host:"localhost",
+    host:"bm5cn65rleggg500ov1p-mysql.services.clever-cloud.com",
     port:"3306",
-    user:"root",
-    password:"Makkar@123",
-    database:"fse2024",
+    user:"bm5cn65rleggg500ov1p",
+    password:"PTMSeLGbCfSy6hMPK42A",
+    database:"fbm5cn65rleggg500ov1p",
 })
